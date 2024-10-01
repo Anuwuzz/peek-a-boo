@@ -4,4 +4,4 @@ A simple web project that demonstrates a fun "peek-a-boo" effect using HTML, CSS
 
 ## Live Demo
 
-Check out the live version of the project at: [Peek-a-Boo Live Demo]()
+Check out the live version of the project at: [Peek-a-Boo Live Demo](https://anuwuzz.github.io/peek-a-boo/)
