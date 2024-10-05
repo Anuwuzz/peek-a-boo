@@ -24,4 +24,7 @@ Experience the magic! Check out the live version of the project at: [Peek-a-Boo 
 ### Clone the Repository
 ```bash
 git clone https://github.com/anuwuzz/peek-a-boo.git
+```
+```bash
 cd peek-a-boo
+```
